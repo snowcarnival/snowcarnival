@@ -97,6 +97,9 @@
   border-radius: 5%;
   line-height: 46px;
 }
+.goods:hover {
+  cursor: pointer;
+}
 .goods > a {
   text-decoration: none;
   color: #fff;
@@ -113,7 +116,6 @@
   height: 679px;
   display: flex;
   padding-left: 50px;
-  
 }
 .info {
   width: 450px;
