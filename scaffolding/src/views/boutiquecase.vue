@@ -90,20 +90,19 @@
 .num > span {
   font-size: 45px;
 }
-.goods {
+.goods > a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  display: block;
   width: 155px;
   height: 46px;
   background-color: #faa635;
   border-radius: 5%;
   line-height: 46px;
 }
-.goods:hover {
+.goods > a:hover {
   cursor: pointer;
-}
-.goods > a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 14px;
 }
 .home-whoweare {
   width: 1583px;
